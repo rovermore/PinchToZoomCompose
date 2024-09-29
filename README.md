@@ -1,15 +1,15 @@
-#📸 Jetpack Compose Image Zoom Library
+# 📸 Jetpack Compose Image Zoom Library
 
 A Jetpack Compose library that provides a simple and intuitive way to zoom in and out on images. Easily add pinch-to-zoom and double-tap gestures to your images in your Jetpack Compose projects.
 
-##Features
+## Features
 
 🔍 Pinch-to-zoom: Use two fingers to zoom in and out.
 ✋ Pan gesture support: Move the image around when zoomed in.
 🖱️ Double-tap to zoom: Quickly zoom in and out with a double-tap.
 🚀 Jetpack Compose-based: Leverages the power of Jetpack Compose for smooth and native Android experience.
 🎨 Highly customizable: Adjust the maximum and minimum zoom levels and configure the pan boundaries.
-##Installation
+## Installation
 
 Add the following to your project's build.gradle:
 
@@ -22,7 +22,7 @@ repositories {
 dependencies {
     implementation("com.yourcompany:imagezoom:1.0.0")
 }
-##Usage
+## Usage
 
 Here's a quick example of how to use the library:
 
@@ -66,17 +66,17 @@ onZoomChanged	Lambda function that gets called whenever the zoom level changes (
 License
 
 Copiar código
-##Apache License 2.0
+## Apache License 2.0
 This library is licensed under the Apache License 2.0. See the LICENSE file for details.
 
-##Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
-##Acknowledgements
+## Acknowledgements
 
 Special thanks to the Jetpack Compose team and the Android community for their support and inspiration.
 
-##Contact
+## Contact
 
 For any questions or support, please reach out to rovermore@gmail.com.
